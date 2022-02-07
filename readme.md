@@ -1,5 +1,5 @@
 # Notes: INVISIBLE PERSISTENCE
-## Hiding Registry Entries (Poweliks, Kovter, others)
+## Hiding Registry Entries (Poweliks, Kovter, others) source: eWhite Hats
 https://stackoverflow.com/questions/1721106/how-to-hide-a-value-on-the-registry-like-sysinternals-reghide-tool
 
 It is possible to write a value to the Run key that Regedit will fail to display but that Windows will read properly when it checks the Run key after a reboot. 
