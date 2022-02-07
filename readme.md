@@ -1,4 +1,4 @@
-# INVISIBLE PERSISTENCE
+# Notes: INVISIBLE PERSISTENCE
 ## Hiding Registry Entries (Poweliks, Kovter, others)
 https://stackoverflow.com/questions/1721106/how-to-hide-a-value-on-the-registry-like-sysinternals-reghide-tool
 
